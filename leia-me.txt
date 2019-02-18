@@ -1,0 +1,6 @@
+Esse aplicativo é um jogo chamado "Flappy Bird" onde um pássaro deve passar entre o espaço de 2 canos.
+(um em cima e outro embaixo). Conforme o passaro avança no jogo ele tende a "cair" e então o jogador deve
+mante-lo sem tocar no chão dando toques na tela, dessa forma ele consegue voar. O usuário não pode
+encostar nos canos e nem encostar no chão e no topo da tela. A cada par de canos atravessados ganha um ponto.
+O objetivo do jogo é fazer tantos pontos quanto for possível.
+O jogo trabalha com manipulação de imagens
